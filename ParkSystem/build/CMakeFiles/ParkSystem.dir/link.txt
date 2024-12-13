@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/ParkSystem.dir/src/main.c.o -o ParkSystem 

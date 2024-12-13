@@ -1,0 +1,3 @@
+/mnt/data/Sunruiyang/ParkSystem/build/CMakeFiles/ParkSystem.dir
+/mnt/data/Sunruiyang/ParkSystem/build/CMakeFiles/edit_cache.dir
+/mnt/data/Sunruiyang/ParkSystem/build/CMakeFiles/rebuild_cache.dir
