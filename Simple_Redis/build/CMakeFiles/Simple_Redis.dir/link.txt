@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/Simple_Redis.dir/src/main.c.o CMakeFiles/Simple_Redis.dir/src/Linklist.c.o CMakeFiles/Simple_Redis.dir/src/dictEntry.c.o -o Simple_Redis 

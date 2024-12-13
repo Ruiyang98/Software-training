@@ -1,0 +1,10 @@
+Process 3 accessed Resource 3
+Process 5 accessed Resource 5
+Process 1 accessed Resource 1
+Message received: Process 5 accessed Resource 5
+Message received: Process 3 accessed Resource 3
+Message received: Process 1 accessed Resource 1
+Process 2 accessed Resource 2
+Message received: Process 2 accessed Resource 2
+Process 4 accessed Resource 4
+Message received: Process 4 accessed Resource 4

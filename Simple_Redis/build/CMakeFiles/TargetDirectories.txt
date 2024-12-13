@@ -1,0 +1,5 @@
+/mnt/data/Sunruiyang/Simple_Redis/build/CMakeFiles/Simple_Redis.dir
+/mnt/data/Sunruiyang/Simple_Redis/build/CMakeFiles/package.dir
+/mnt/data/Sunruiyang/Simple_Redis/build/CMakeFiles/package_source.dir
+/mnt/data/Sunruiyang/Simple_Redis/build/CMakeFiles/edit_cache.dir
+/mnt/data/Sunruiyang/Simple_Redis/build/CMakeFiles/rebuild_cache.dir

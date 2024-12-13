@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/mnt/data/Sunruiyang/Simple_Redis/build",
+  "command": "/usr/bin/gcc  -I/mnt/data/Sunruiyang/Simple_Redis/include -g -o CMakeFiles/Simple_Redis.dir/src/main.c.o -c /mnt/data/Sunruiyang/Simple_Redis/src/main.c",
+  "file": "/mnt/data/Sunruiyang/Simple_Redis/src/main.c"
+},
+{
+  "directory": "/mnt/data/Sunruiyang/Simple_Redis/build",
+  "command": "/usr/bin/gcc  -I/mnt/data/Sunruiyang/Simple_Redis/include -g -o CMakeFiles/Simple_Redis.dir/src/Linklist.c.o -c /mnt/data/Sunruiyang/Simple_Redis/src/Linklist.c",
+  "file": "/mnt/data/Sunruiyang/Simple_Redis/src/Linklist.c"
+},
+{
+  "directory": "/mnt/data/Sunruiyang/Simple_Redis/build",
+  "command": "/usr/bin/gcc  -I/mnt/data/Sunruiyang/Simple_Redis/include -g -o CMakeFiles/Simple_Redis.dir/src/dictEntry.c.o -c /mnt/data/Sunruiyang/Simple_Redis/src/dictEntry.c",
+  "file": "/mnt/data/Sunruiyang/Simple_Redis/src/dictEntry.c"
+}
+]
