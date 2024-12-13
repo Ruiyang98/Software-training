@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/mnt/data/Sunruiyang/ParkSystem/src/main.c" "CMakeFiles/ParkSystem.dir/src/main.c.o" "gcc" "CMakeFiles/ParkSystem.dir/src/main.c.o.d"
+  "/mnt/data/Sunruiyang/ParkSystem/src/user.c" "CMakeFiles/ParkSystem.dir/src/user.c.o" "gcc" "CMakeFiles/ParkSystem.dir/src/user.c.o.d"
   )
 
 # Targets to which this target links.

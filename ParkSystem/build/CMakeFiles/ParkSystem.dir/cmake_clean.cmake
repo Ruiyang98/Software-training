@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/ParkSystem.dir/src/main.c.o"
   "CMakeFiles/ParkSystem.dir/src/main.c.o.d"
+  "CMakeFiles/ParkSystem.dir/src/user.c.o"
+  "CMakeFiles/ParkSystem.dir/src/user.c.o.d"
   "ParkSystem"
   "ParkSystem.pdb"
 )

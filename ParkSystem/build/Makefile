@@ -153,6 +153,30 @@ src/main.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ParkSystem.dir/build.make CMakeFiles/ParkSystem.dir/src/main.c.s
 .PHONY : src/main.c.s
 
+src/user.o: src/user.c.o
+.PHONY : src/user.o
+
+# target to build an object file
+src/user.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ParkSystem.dir/build.make CMakeFiles/ParkSystem.dir/src/user.c.o
+.PHONY : src/user.c.o
+
+src/user.i: src/user.c.i
+.PHONY : src/user.i
+
+# target to preprocess a source file
+src/user.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ParkSystem.dir/build.make CMakeFiles/ParkSystem.dir/src/user.c.i
+.PHONY : src/user.c.i
+
+src/user.s: src/user.c.s
+.PHONY : src/user.s
+
+# target to generate assembly for a file
+src/user.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ParkSystem.dir/build.make CMakeFiles/ParkSystem.dir/src/user.c.s
+.PHONY : src/user.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -165,6 +189,9 @@ help:
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"
+	@echo "... src/user.o"
+	@echo "... src/user.i"
+	@echo "... src/user.s"
 .PHONY : help
 
 

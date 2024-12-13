@@ -64,8 +64,8 @@ set(CMAKE_CXX_STANDARD 11)
 include_directories(include)
 # source files
 set(SRC 
-    src/main.c)
-#    src/Linklist.c
+    src/main.c
+    src/user.c)
 #    src/dictEntry.c)
 # add executable
 add_executable(ParkSystem ${SRC})

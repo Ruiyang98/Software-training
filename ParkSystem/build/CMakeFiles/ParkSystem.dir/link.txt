@@ -1,1 +1,1 @@
-/usr/bin/cc CMakeFiles/ParkSystem.dir/src/main.c.o -o ParkSystem 
+/usr/bin/gcc -g CMakeFiles/ParkSystem.dir/src/main.c.o CMakeFiles/ParkSystem.dir/src/user.c.o -o ParkSystem 

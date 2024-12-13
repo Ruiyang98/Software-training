@@ -59,5 +59,6 @@
   "files.associations": {
     "*.md": "markdown",
     "omp.h": "c"
-  }
+  },
+  "cmake.sourceDirectory": "/mnt/data/Sunruiyang/ParkSystem"
 }

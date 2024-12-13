@@ -81,12 +81,12 @@ clean: CMakeFiles/ParkSystem.dir/clean
 CMakeFiles/ParkSystem.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ParkSystem.dir/build.make CMakeFiles/ParkSystem.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ParkSystem.dir/build.make CMakeFiles/ParkSystem.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/mnt/data/Sunruiyang/ParkSystem/build/CMakeFiles --progress-num=1,2 "Built target ParkSystem"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/mnt/data/Sunruiyang/ParkSystem/build/CMakeFiles --progress-num=1,2,3 "Built target ParkSystem"
 .PHONY : CMakeFiles/ParkSystem.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/ParkSystem.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/data/Sunruiyang/ParkSystem/build/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/data/Sunruiyang/ParkSystem/build/CMakeFiles 3
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/ParkSystem.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/data/Sunruiyang/ParkSystem/build/CMakeFiles 0
 .PHONY : CMakeFiles/ParkSystem.dir/rule

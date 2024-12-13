@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/mnt/data/Sunruiyang/ParkSystem/build",
+  "command": "/usr/bin/gcc  -I/mnt/data/Sunruiyang/ParkSystem/include -g -o CMakeFiles/ParkSystem.dir/src/main.c.o -c /mnt/data/Sunruiyang/ParkSystem/src/main.c",
+  "file": "/mnt/data/Sunruiyang/ParkSystem/src/main.c"
+},
+{
+  "directory": "/mnt/data/Sunruiyang/ParkSystem/build",
+  "command": "/usr/bin/gcc  -I/mnt/data/Sunruiyang/ParkSystem/include -g -o CMakeFiles/ParkSystem.dir/src/user.c.o -c /mnt/data/Sunruiyang/ParkSystem/src/user.c",
+  "file": "/mnt/data/Sunruiyang/ParkSystem/src/user.c"
+}
+]
